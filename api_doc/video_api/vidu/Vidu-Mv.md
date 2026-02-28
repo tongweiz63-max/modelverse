@@ -1,4 +1,4 @@
-# Vidu/Mv
+# Vidu/一键生成mv
 
 一键生成MV
 
