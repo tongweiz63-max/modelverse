@@ -36,7 +36,7 @@ curl --location --globoff 'https://api.modelverse.cn/v1/tasks/submit' \
     "model": "vidu-mv",
     "input": {
         "images": ["https://xxxxxxxxx/image2video.png"],
-        "prompt": "宇航员走一回，跑一会，不断徘徊。",
+        "prompt": "图中人物徘徊在路上。",
         "audio_url": "https://xxxxxxxxx/49ab8a8f-f564-4b96-80a2-b38cca527475.mp3"
     },
     "parameters": {
